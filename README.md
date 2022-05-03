@@ -83,7 +83,7 @@ Projeto sobre o Git/GitHub
 
 - git push - Esté comando de fato vai enviar os arquivos do commit | repositorio local para o remoto
 
- - git pull - Caso o seu commit não seja aceito é porque teve mudanças do repositorio remoto, então e necessário atualizar o seu repositorio local, por isso utilizamos o git pull, Mas tenha atenção , se for preciso fazer o pull atente se, porque poder aver um merge, e isso não vai te deixa-lo fazer o push 😢 , mais calma vecê pode aceitar as alteracoes feitas pelos seus colegas de contribuição e logo depois push 😁;
+ - git pull - Caso o seu commit não seja aceito é porque teve mudanças do repositorio remoto, então e necessário atualizar o seu repositorio local, por isso utilizamos o git pull, Mas tenha atenção , se for preciso fazer o pull atente se, porque poder aver um merge, e isso não vai te deixar fazer o push 😢 , mais calma vecê pode aceitar as alteracoes feitas pelos seus colegas de contribuição e logo depois push 😁;
 
  ### Git é a mesma coisa que Github ❓
     Muitas pessoas confundem Git com Github, mas tratam-se de termos distintos. 
